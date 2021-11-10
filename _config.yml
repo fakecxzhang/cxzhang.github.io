@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Charlie Zhang"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Charlie zHANG"
+name                     : "Charlie Zhang"
 description              : ""
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -104,13 +104,13 @@ analytics:
 author:
   name             : "Charlie Zhang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "MS-DSPP 22' @ Georgetown University"
   location         : "Washington, DC"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      # url: "mailto: cz317@georgetown.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
