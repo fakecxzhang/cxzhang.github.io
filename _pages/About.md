@@ -1,3 +1,14 @@
+---
+title: "About"
+permalink: /About/
+layout: single
+author_profile: true
+toc: ture
+toc_label: "Preview"
+---
+
+
+
 ## About
 I am a second-year DSPP student at the McCourt School of Public Policy, Georgetown University. Prior to the McCourt, I studied sociology and political science in Hong Kong and graduated with _first class honor_. You can click [HERE](https://www.dropbox.com/s/jvz2p8jc68nat5r/cv.pdf?dl=0) to see my résumé.
 
